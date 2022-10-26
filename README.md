@@ -2,7 +2,7 @@
 ---
 
 In this project, I first installed VMware virtual machine on my computer and then Windows 2016 in order to avoid compatibility problems between SQL Server and the operating system.
-Then I installed Microsoft SQL Server 2017 and Management Studio on the virtual machine.
+Then I installed Microsoft SQL Server 2017 Developer Edition and Management Studio on the virtual machine.
 ### Creating a Database with MS SQL Server:
  * #### I created a database from ziro by fallowing:
    * Drafting a relational database through Google sheets
